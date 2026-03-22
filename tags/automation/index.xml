@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Blogs on Lakshmi Sobha</title>
-    <link>https://sobha.kodam.dev/blogs/</link>
-    <description>Recent content in Blogs on Lakshmi Sobha</description>
+    <title>Automation on Lakshmi Sobha</title>
+    <link>https://sobha.kodam.dev/tags/automation/</link>
+    <description>Recent content in Automation on Lakshmi Sobha</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 22 Mar 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://sobha.kodam.dev/blogs/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://sobha.kodam.dev/tags/automation/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>How I Used Claude&#39;s Skills to Automate My Job Applications</title>
       <link>https://sobha.kodam.dev/blogs/claude-skills-job-applications/</link>

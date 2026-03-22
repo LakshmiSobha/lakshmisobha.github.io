@@ -6,20 +6,34 @@
     <description>Recent content in Tags on Lakshmi Sobha</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 18 Mar 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 22 Mar 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://sobha.kodam.dev/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Blog</title>
-      <link>https://sobha.kodam.dev/tags/blog/</link>
-      <pubDate>Wed, 18 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>https://sobha.kodam.dev/tags/blog/</guid>
+      <title>AI</title>
+      <link>https://sobha.kodam.dev/tags/ai/</link>
+      <pubDate>Sun, 22 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://sobha.kodam.dev/tags/ai/</guid>
       <description></description>
     </item>
     <item>
-      <title>Introduction</title>
-      <link>https://sobha.kodam.dev/tags/introduction/</link>
-      <pubDate>Wed, 18 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>https://sobha.kodam.dev/tags/introduction/</guid>
+      <title>Automation</title>
+      <link>https://sobha.kodam.dev/tags/automation/</link>
+      <pubDate>Sun, 22 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://sobha.kodam.dev/tags/automation/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Claude</title>
+      <link>https://sobha.kodam.dev/tags/claude/</link>
+      <pubDate>Sun, 22 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://sobha.kodam.dev/tags/claude/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Job-Search</title>
+      <link>https://sobha.kodam.dev/tags/job-search/</link>
+      <pubDate>Sun, 22 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://sobha.kodam.dev/tags/job-search/</guid>
       <description></description>
     </item>
   </channel>

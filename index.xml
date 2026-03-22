@@ -6,14 +6,14 @@
     <description>Recent content on Lakshmi Sobha</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 18 Mar 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 22 Mar 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://sobha.kodam.dev/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Hello World - Welcome to My Blog</title>
-      <link>https://sobha.kodam.dev/blogs/hello-world/</link>
-      <pubDate>Wed, 18 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>https://sobha.kodam.dev/blogs/hello-world/</guid>
-      <description>&lt;h2 id=&#34;welcome&#34;&gt;Welcome!&lt;/h2&gt;&#xA;&lt;p&gt;Hello and welcome to my blog! I&amp;rsquo;m Lakshmi Sobha, a Process Development Manager and Project Manager.&lt;/p&gt;&#xA;&lt;p&gt;I&amp;rsquo;ve created this space to share my thoughts on:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Process improvement&lt;/strong&gt; — strategies and frameworks that drive efficiency&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Project management&lt;/strong&gt; — lessons learned from leading cross-functional teams&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Technology&lt;/strong&gt; — tools and techniques that make our work better&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;why-blog&#34;&gt;Why Blog?&lt;/h2&gt;&#xA;&lt;p&gt;I believe in the power of sharing knowledge. Writing helps me clarify my thinking, and I hope my posts can help others navigate similar challenges in their own careers.&lt;/p&gt;</description>
+      <title>How I Used Claude&#39;s Skills to Automate My Job Applications</title>
+      <link>https://sobha.kodam.dev/blogs/claude-skills-job-applications/</link>
+      <pubDate>Sun, 22 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://sobha.kodam.dev/blogs/claude-skills-job-applications/</guid>
+      <description>&lt;p&gt;Two months into my job search, I set up a resume builder on Claude Code. The idea was straightforward: one tool, every new role, tailored output each time. No more rewriting the same sections from scratch.&lt;/p&gt;&#xA;&lt;p&gt;It did not work the way I expected. The CV came back with details that were not mine, a professional summary that overstated things, and achievements that sounded plausible but did not reflect my actual experience. I spent more time editing the output than I would have writing from scratch.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
