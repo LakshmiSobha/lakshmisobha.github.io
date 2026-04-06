@@ -6,8 +6,15 @@
     <description>Recent content in Blogs on Lakshmi Sobha</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 22 Mar 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 06 Apr 2026 12:01:33 +0300</lastBuildDate>
     <atom:link href="https://sobha.kodam.dev/blogs/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Making Change Work in Complex Organisations</title>
+      <link>https://sobha.kodam.dev/blogs/making-change-work/</link>
+      <pubDate>Mon, 06 Apr 2026 12:01:33 +0300</pubDate>
+      <guid>https://sobha.kodam.dev/blogs/making-change-work/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://sobha.kodam.dev/images/change.png&#34; alt=&#34;Change Management&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Change is rarely about process documents or presentations. It is about people, habits, and trust. Having led large-scale transformations across organisations — from SAFe and Agile rollouts to SDLC standardisation and PMO governance setups — I have seen firsthand how even well-designed initiatives can stall when the human side is overlooked.&lt;/p&gt;&#xA;&lt;p&gt;In large enterprises, introducing a new way of working means aligning teams that already have established rhythms, priorities, and histories. What looks efficient from a programme level may feel disruptive at the team level. Recognising that tension early is what separates change that sticks from change that gets quietly abandoned.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>How I Used Claude&#39;s Skills to Automate My Job Applications</title>
       <link>https://sobha.kodam.dev/blogs/claude-skills-job-applications/</link>
